@@ -1,0 +1,14 @@
+[
+  {
+    "repo": "IdanLab",
+    "name": "IdanLab",
+    "desc": "Source of idanlab.dev, my lab notebook. Astro, Starlight, and a theme of my own.",
+    "tags": ["astro", "starlight", "cloudflare"]
+  },
+  {
+    "repo": "MobileCApp",
+    "name": "MobileCApp",
+    "desc": "A C++ personal trainer app.",
+    "tags": ["c++"]
+  }
+]
